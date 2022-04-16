@@ -1,0 +1,17 @@
+body{
+    margin-top:0px;
+    padding-top:75px;
+    margin-bottom:100px;
+} 
+footer{
+ padding: 10px 0;
+ background-color: #101010;
+ color:#9d9d9d;
+ width: 100%;
+ bottom: 0;
+ position: fixed;
+}
+.alert{
+    margin-top: 60px;
+}
+
