@@ -1,8 +1,6 @@
 # Widget-Store
 Widget Store is a final project of the training program which involved building a  simple e-commerce website for an e-store.
 
-*************************************** Web Development Final Project : VARTIKA YADAVA ****************************************
-
 DESCRIPTION: This is the PROJECT SOLUTION to the ecommerce store named Widget Store. 
 
 To view the project, extract the files from vartika.zip.
